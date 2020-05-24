@@ -1,0 +1,11 @@
+<ListOfTaskListEntry>
+  <TaskListEntry file="" description="Make it work with any number of operators entered" completed="True" />
+  <TaskListEntry file="" description="Order of Operations" completed="True" />
+  <TaskListEntry file="" description="Festive Theme (dynamic themes in general)" completed="True" />
+  <TaskListEntry file="" description="Make a faded box behind the screen" completed="True" />
+  <TaskListEntry file="" description="Make it stop going up a bit every time you enter more than 10 characters" />
+  <TaskListEntry file="" description="have commas or spaces for 1 000 000 and etc." />
+  <TaskListEntry file="" description="make it stop taking numbers after 10 digits (when they can't be seen anymore)" />
+  <TaskListEntry file="" description="sound effects?? scary background changes when you displease it" completed="True" />
+  <TaskListEntry file="" description="make it okay on the iPad (make the margins bigger to accomodate" />
+</ListOfTaskListEntry>

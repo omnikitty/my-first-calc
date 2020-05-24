@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B43E1130-1BEA-4E06-9959-3E3B39BD40A3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calc1.iOS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calc1/Calc1Page.xaml.cs">
+    <Files>
+      <File FileName="Calc1/App.xaml" Line="7" Column="1" />
+      <File FileName="Calc1/Calc1Page.xaml" Line="116" Column="1" />
+      <File FileName="Calc1/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Calc1/Calc1Page.xaml.cs" Line="111" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
